@@ -4,6 +4,8 @@ Processing 3.4
 
 This program creates a preset number of circles that get increasingly smaller according to the golden ratio (≈ 1.618). 
 Each circle rotates around the center of the bigger circle. The smaller the circle, the faster it rotates.
+
+Copyright 2018, Joep Eijkemans, All rights reserved.
 */
 
 
