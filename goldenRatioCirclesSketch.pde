@@ -6,6 +6,8 @@ This program creates a preset number of circles that get increasingly smaller ac
 Each circle rotates around the center of the bigger circle. The smaller the circle, the faster it rotates.
 
 Copyright 2018, Joep Eijkemans, All rights reserved.
+
+www.joepeijkemans.nl
 */
 
 
